@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img width="500" src="/logo.svg" alt="Bloks.io">
+<img width="500" src="/logo.png" alt="Bloks.io">
 <br>
 <br>
 </div>
