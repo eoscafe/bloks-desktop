@@ -23,7 +23,7 @@ A complete EOS Block Explorer and Wallet integrated with Scatter and Ledger.
 ## Overview
 The aim of this project is to provide users a seamless user experience between exploring the blockchain and doing everyday tasks.
 
-## Overview
+## Platforms
 The desktop client supports MacOS, Windows and Linux. The browser version at https://bloks.io supports all platforms.
 
 ## Explorer Functionality
