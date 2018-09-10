@@ -23,4 +23,38 @@ A complete EOS Block Explorer and Wallet integrated with Scatter and Ledger.
 ## Overview
 The aim of this project is to provide users a seamless user experience between exploring the blockchain and doing everyday tasks.
 
-All ledger and scatter actions are 100% supported.
+## Overview
+The desktop client supports MacOS, Windows and Linux. The browser version at https://bloks.io supports all platforms.
+
+## Explorer Functionality
+- Live EOS Monitor (with all block producers)
+- Live transaction monitor (with filtering on accounts/actions)
+- Voting Portal
+- Token list and marketcaps
+- Full account data
+- Onchain blacklists and BP Jsons 
+- Complete chain data including RAM, CPU, NET limits
+- View tables of any contract
+
+## Wallet
+#### Scatter
+- Transfer tokens
+- Create account from exchange withdrawal
+- Create account form existing account
+- Change permissions
+- Buy and Sell RAM
+- Buy and Sell CPU/NET
+- Manual refund for bandwidth
+- Set gravatar (profile with photo/telegram/display name)
+
+**You can interact with any contract using scatter and the contract interaction functionality**
+
+#### Ledger
+- Transfer tokens
+- Create account from exchange withdrawal
+- Create account form existing account
+- Change permissions
+- Buy and Sell RAM
+- Buy and Sell CPU/NET
+- Manual refund for bandwidth
+- Set gravatar (profile with photo/telegram/display name)
