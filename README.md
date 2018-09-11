@@ -22,6 +22,10 @@ A complete EOS Block Explorer and Wallet integrated with Scatter and Ledger.
 
 ## Download: [MacOS](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-MacOS-1.0.0.dmg) [Windows](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-Windows-1.0.0.exe) [Linux](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-Linux-1.0.0.AppImage)
 
+**Windows**: Run the app as administrator
+
+**Linux**: Run the script at https://github.com/LedgerHQ/udev-rules to allow udev
+
 ## Overview
 The aim of this project is to provide users a seamless user experience between exploring the blockchain and doing everyday tasks.
 
