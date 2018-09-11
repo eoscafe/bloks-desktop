@@ -20,6 +20,8 @@ A complete EOS Block Explorer and Wallet integrated with Scatter and Ledger.
 
 </div>
 
+## [Download](https://github.com/eoscafe/bloks-desktop/releases)
+
 ## Overview
 The aim of this project is to provide users a seamless user experience between exploring the blockchain and doing everyday tasks.
 
