@@ -49,7 +49,7 @@ The desktop client supports MacOS, Windows and Linux. The browser version at htt
 - Create account form existing account
 - Change permissions
 - Buy and Sell RAM
-- Buy and Sell CPU/NET
+- Stake and unstake CPU/NET
 - Manual refund for bandwidth
 - Set gravatar (profile with photo/telegram/display name)
 
@@ -59,8 +59,5 @@ The desktop client supports MacOS, Windows and Linux. The browser version at htt
 - Transfer tokens
 - Create account from exchange withdrawal
 - Create account form existing account
-- Change permissions
 - Buy and Sell RAM
-- Buy and Sell CPU/NET
-- Manual refund for bandwidth
-- Set gravatar (profile with photo/telegram/display name)
+- Stake and unstake CPU/NET
