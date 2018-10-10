@@ -20,7 +20,7 @@ A complete EOS Block Explorer and Wallet integrated with Scatter and Ledger.
 
 </div>
 
-## Download: [MacOS](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-MacOS-1.0.0.dmg) [Windows](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-Windows-1.0.0.exe) [Linux](https://github.com/eoscafe/bloks-desktop/releases/download/v1.0.0/Bloks-Linux-1.0.0.AppImage)
+## Download: [MacOS](https://github.com/eoscafe/bloks-desktop/releases/download/2.0.0/Bloks-MacOS-2.0.0.dmg) [Windows](https://github.com/eoscafe/bloks-desktop/releases/download/2.0.0/Bloks-Windows-2.0.0.exe) [Linux](https://github.com/eoscafe/bloks-desktop/releases/download/2.0.0/Bloks-Linux-2.0.0.AppImage)
 
 **Windows**: Run the app as administrator
 
